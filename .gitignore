@@ -1,5 +1,5 @@
-# File
-.SABBATH.txt
+# Ignore File
+SABBATH.txt
 
 # Prerequisites
 *.d
